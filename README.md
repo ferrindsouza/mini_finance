@@ -1,4 +1,19 @@
 ## **[Mini Finance Project](https://www.tooplate.com/live/2135_mini_finance) - CloudAdvisory Onboarding Task**
+### Updated Code Snippet for Jira Story where I modified Date
+```
+<footer class="site-footer">
+                        <div class="container">
+                            <div class="row">
+                                
+                                <div class="col-lg-12 col-12">
+                                    <p class="copyright-text">Copyright © Mini Finance 2048 
+				    - Design: <a rel="sponsored" href="https://www.tooplate.com" target="_blank">Tooplate</a><br>Mini Finance v1.0 — Deployed on 05/09/2025 by Ferrin Dsouza></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </footer>
+```
 
 This project is part of My Udemy Course [Git & GitHub for Absolute Beginners with Project](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)
 
